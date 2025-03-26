@@ -5,4 +5,4 @@ I LOVE the embedded boxplot/violin plot that I made for my coding supplement bec
 
 However, in order for the statistics to be meaningful we must carefully pick the arguments of ggbetweenstats() based on the assumptions of our data.
 
-In this repo, I justify the arguments I set forth in my coding supplement, I hope you enjoy inspecting my code as much as I loved writing it.
+In this repository, I justify the arguments I set forth in my coding supplement, I hope you enjoy inspecting my code as much as I loved writing it.
