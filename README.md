@@ -2,7 +2,7 @@
 
 [2-page Supplement from application portal](https://github.com/stevehaworth02/uchicago/blob/main/SupplementPDF/CodeSupplement_NoStatisticalTest.pdf)
 
-5-page FULL Workflow
+[5-page FULL Workflow (Data Wrangle, Stats, ML, and more)](https://github.com/stevehaworth02/uchicago/blob/main/SupplementPDF/SupplementSubmission_FULL.pdf)
 
 Hello University of Chicago MS-ADS Committee, thank you for visiting my GitHub page for my mini-experiment.
 
