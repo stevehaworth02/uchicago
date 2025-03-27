@@ -9,5 +9,8 @@ In this repository, I justify the arguments I set forth in my coding supplement,
 
 ## For sake of your time, I've put all figures below, the full statistical work-flow is in uchicago > SupplementPDF > SupplmentSubmission_FULL.pdf
 
-Figures:
+Test of Normality
+
+![Alternative Text](figures/qq.jpg "QQ-Plot")
+
 
