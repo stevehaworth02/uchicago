@@ -10,9 +10,9 @@ I LOVE the embedded boxplot/violin plot that I made for my coding supplement bec
 
 However, in order for the statistics to be meaningful we must carefully pick the arguments of ggbetweenstats() based on the assumptions of our data.
 
-In this repository, I justify the arguments I set forth in my coding supplement, I hope you enjoy inspecting my code as much as I loved writing it.
+In this repository, I expand my workflow beyond just wrangling and visualizing, I justify the arguments I set in my coding supplement via statistical tests and do some machine learning, I hope you enjoy inspecting my code as much as I loved writing it.
 
-## For sake of your time, I've put all figures below, the full statistical work-flow is in uchicago > SupplementPDF > SupplementSubmission_FULL.pdf
+## For sake of your time, I've put all figures below, the full statistical click the hyper-links on top for pdf summaries. There are RMD's available as well if you want to reproduce my results
 
 Here is the photo summary of my work, find the full code in the SupplementSubmission_FULL.pdf
 
