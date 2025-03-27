@@ -17,3 +17,4 @@ Here is the photo summary of my work, find the full code in the SupplementSubmis
 
 ![Alternative Text](figures/logit_curve.jpg "Sigmoid Curve")
 
+![Alternative Text](figures/roc.png "ROCAUC")
