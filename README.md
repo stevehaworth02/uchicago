@@ -13,5 +13,7 @@ Here is the photo summary of my work, find the full code in the SupplementSubmis
 
 ![Alternative Text](figures/qq.jpg "QQ-Plot")
 
-![Alternative Text](figures/boxplotviolin.jpg "QQ-Plot")
+![Alternative Text](figures/boxplotviolin.jpg "Statistical Visualization")
+
+![Alternative Text](figures/logit_curve.jpg "Sigmoid Curve")
 
