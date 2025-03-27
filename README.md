@@ -1,6 +1,6 @@
 # University of Chicago Mini-Experiment
 
-[2-page Supplement from application portal]([https://github.com/your-username/your-repo/issues](https://github.com/stevehaworth02/uchicago/blob/main/SupplementPDF/CodeSupplement_NoStatisticalTest.pdf))
+[2-page Supplement from application portal](https://github.com/stevehaworth02/uchicago/blob/main/SupplementPDF/CodeSupplement_NoStatisticalTest.pdf)
 
 5-page FULL Workflow
 
